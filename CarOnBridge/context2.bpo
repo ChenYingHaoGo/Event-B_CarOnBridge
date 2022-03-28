@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<org.eventb.core.poFile org.eventb.core.poStamp="2">
+<org.eventb.core.poPredicateSet name="ABSHYP" org.eventb.core.poStamp="2">
+<org.eventb.core.poIdentifier name="d" org.eventb.core.type="ℤ"/>
+<org.eventb.core.poPredicate name="e" org.eventb.core.predicate="d∈ℕ" org.eventb.core.source="/CarOnBridge_陈英豪_51215902084/context1.buc|org.eventb.core.contextFile#context1|org.eventb.core.axiom#("/>
+<org.eventb.core.poPredicate name="f" org.eventb.core.predicate="d&gt;0" org.eventb.core.source="/CarOnBridge_陈英豪_51215902084/context1.buc|org.eventb.core.contextFile#context1|org.eventb.core.axiom#)"/>
+<org.eventb.core.poIdentifier name="COLOR" org.eventb.core.type="ℙ(COLOR)"/>
+<org.eventb.core.poIdentifier name="green" org.eventb.core.type="COLOR"/>
+<org.eventb.core.poIdentifier name="red" org.eventb.core.type="COLOR"/>
+</org.eventb.core.poPredicateSet>
+<org.eventb.core.poPredicateSet name="ALLHYP" org.eventb.core.parentSet="/CarOnBridge_陈英豪_51215902084/context2.bpo|org.eventb.core.poFile#context2|org.eventb.core.poPredicateSet#ABSHYP" org.eventb.core.poStamp="2">
+<org.eventb.core.poPredicate name="PRD0" org.eventb.core.predicate="COLOR={green,red}" org.eventb.core.source="/CarOnBridge_陈英豪_51215902084/context2.buc|org.eventb.core.contextFile#context2|org.eventb.core.axiom#+"/>
+<org.eventb.core.poPredicate name="PRD1" org.eventb.core.predicate="green≠red" org.eventb.core.source="/CarOnBridge_陈英豪_51215902084/context2.buc|org.eventb.core.contextFile#context2|org.eventb.core.axiom#,"/>
+</org.eventb.core.poPredicateSet>
+</org.eventb.core.poFile>

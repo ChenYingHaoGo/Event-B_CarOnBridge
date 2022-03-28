@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<org.eventb.core.scContextFile org.eventb.core.accurate="true" org.eventb.core.configuration="org.eventb.core.fwd;de.prob.symbolic.ctxBase;org.animb.valuation.valBase">
+<org.eventb.core.scAxiom name="'" org.eventb.core.label="axm1" org.eventb.core.predicate="d∈ℕ" org.eventb.core.source="/CarOnBridge_陈英豪_51215902084/context1.buc|org.eventb.core.contextFile#context1|org.eventb.core.axiom#(" org.eventb.core.theorem="false"/>
+<org.eventb.core.scAxiom name="(" org.eventb.core.label="axm2" org.eventb.core.predicate="d&gt;0" org.eventb.core.source="/CarOnBridge_陈英豪_51215902084/context1.buc|org.eventb.core.contextFile#context1|org.eventb.core.axiom#)" org.eventb.core.theorem="false"/>
+<org.eventb.core.scConstant de.prob.symbolic.symbolicAttribute="false" name="d" org.eventb.core.source="/CarOnBridge_陈英豪_51215902084/context1.buc|org.eventb.core.contextFile#context1|org.eventb.core.constant#'" org.eventb.core.type="ℤ"/>
+</org.eventb.core.scContextFile>
